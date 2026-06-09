@@ -59,3 +59,7 @@ docker run -d --name localstack -p 4566:4566 -p 4510-4559:4510-4559 localstack/l
 code lessons/01-localstack-setup/
 ```
 TF_LOG=TRACE before a terraform command to see detailed trace log
+
+
+## Training Author -  Eyuel M. 
+ 

@@ -289,3 +289,8 @@ This confirms that CLI-created resources are visible to the Web UI and vice vers
 - All three services (S3, DynamoDB, SQS) have identical CLI APIs to real AWS
 - Resources created via CLI are immediately visible in the Web UI
 - The alias `awslocal` is optional; we use the full command for clarity
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

@@ -296,3 +296,9 @@ docker run -d --name localstack -p 4566:4566 -p 4510-4559:4510-4559 -e LOCALSTAC
 | Container exits immediately | Check Docker resources (RAM/CPU) |
 | Web UI not loading | Use `http://localhost:4566` instead of `localhost.localstack.cloud` |
 | Health check returns empty | Wait 10-20 seconds for startup |
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.
+

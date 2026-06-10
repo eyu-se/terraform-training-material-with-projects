@@ -249,3 +249,8 @@ All should be empty.
 - Terraform communicates with LocalStack through the same API as real AWS
 - All Terraform workflow commands (`init`, `plan`, `apply`, `destroy`) work identically to real AWS
 - Resources created by Terraform are visible in the LocalStack Web UI and accessible via AWS CLI
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

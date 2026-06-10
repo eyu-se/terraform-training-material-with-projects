@@ -323,3 +323,9 @@ module "bucket" {
 - Same module can be called multiple times with different inputs
 - Modules inherit the provider from the root configuration
 - `source` can be a local path or a registry URL (e.g., `terraform-aws-modules/s3-bucket/aws`)
+
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

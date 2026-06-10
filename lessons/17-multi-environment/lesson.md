@@ -303,3 +303,8 @@ tags = {
 - Use `terraform.workspace` in configs to reference the current workspace
 - Always pin modules — environments should use the same module version
 - Never hardcode environment-specific values in modules — pass them via variables
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

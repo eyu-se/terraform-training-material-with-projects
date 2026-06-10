@@ -332,3 +332,9 @@ output "new_queue_arn"         { value = aws_sqs_queue.notification.arn }
 - Filter arguments (like `bucket`, `name`) identify which resource to read
 - Common built-in data sources: `aws_caller_identity`, `aws_region`, `aws_iam_policy_document`
 - Data sources are resolved during `terraform plan`/`apply` — they don't need a separate command
+
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

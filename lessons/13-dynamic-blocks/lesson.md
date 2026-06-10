@@ -310,3 +310,8 @@ output "ingress_count" {
 - Dynamic blocks can be nested (one dynamic inside another)
 - They work for **any** nested block type: `ingress`, `subscription`, `logging`, `attribute`, `rule`
 - Keep dynamic blocks simple — if you need deep nesting, consider splitting into separate resources or modules
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

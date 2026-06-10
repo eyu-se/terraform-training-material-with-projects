@@ -296,3 +296,8 @@ aws --endpoint-url=http://localhost:4566 dynamodb query \
 - Public access blocking prevents unauthorized access
 - The project uses two modules that each focus on one service
 - Verification via CLI confirms the infrastructure works as expected
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

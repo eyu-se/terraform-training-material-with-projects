@@ -301,3 +301,9 @@ output "extra_queue_id" {
 - Use `count` for conditional resources and N identical copies
 - Resources with `count` are a **list**; with `for_each` they are a **map**
 - Splat expressions (`[*]`) collect all instances
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.
+

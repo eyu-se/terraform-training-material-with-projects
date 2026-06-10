@@ -263,3 +263,8 @@ If you skip step 2, Terraform would try to **destroy** the old resource and **cr
 - `terraform state rm` and `mv` modify state — use carefully
 - After renaming a resource in config, use `terraform state mv` to avoid destroy/recreate
 - Never edit `terraform.tfstate` manually — use the CLI commands instead
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

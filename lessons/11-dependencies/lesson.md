@@ -264,3 +264,9 @@ Terraform will perform the following actions:
 - `terraform graph` visualizes the dependency graph (requires Graphviz for images)
 - Circular dependencies cause an error — restructure to avoid them
 - The plan output shows resource creation order based on the dependency graph
+
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

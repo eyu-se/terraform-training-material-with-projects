@@ -317,3 +317,8 @@ extra_tags = {
 - Multiple `locals` blocks are merged automatically by Terraform
 - Locals are **not** user-configurable — they are derived from variables and other inputs
 - The typical flow: `variables → locals → resources → outputs`
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

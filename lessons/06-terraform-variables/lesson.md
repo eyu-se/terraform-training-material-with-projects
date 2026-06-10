@@ -487,3 +487,8 @@ resource "aws_sqs_queue" "main" {
 - `terraform.tfvars` is auto-loaded; custom files need `-var-file`
 - Environment variables use the `TF_VAR_` prefix
 - `sensitive = true` hides values in logs and CLI output
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

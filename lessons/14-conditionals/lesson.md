@@ -267,3 +267,8 @@ output "versioning_enabled" {
 - Centralize conditional logic in **locals** to keep resources clean
 - Conditional resource references need `[0]` access and `try()` for safety
 - Three patterns cover most needs: ternary for values, count for resources, for for collections
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

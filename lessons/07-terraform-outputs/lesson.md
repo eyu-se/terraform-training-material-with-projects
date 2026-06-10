@@ -284,3 +284,8 @@ output "all_resources" {
 - `sensitive = true` hides values from CLI display but not from `terraform output -json`
 - Outputs are the primary mechanism for passing data between modules
 - Outputs can contain complex expressions: maps, lists, conditionals, string interpolation
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

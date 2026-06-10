@@ -394,3 +394,9 @@ module "bucket" {
 - Document inputs and outputs in a README
 - The Terraform Registry provides thousands of community modules
 - Module version pinning (`version = "5.0.0"`) ensures reproducibility
+
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

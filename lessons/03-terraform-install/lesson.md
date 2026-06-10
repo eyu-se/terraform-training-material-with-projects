@@ -285,3 +285,7 @@ This is the core loop you will repeat in every lesson going forward.
 - `destroy` tears everything down
 - The state file (`terraform.tfstate`) is Terraform's source of truth for what exists
 - The `local` provider is built-in — no download needed (unlike AWS provider, coming next lesson)
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.

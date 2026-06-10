@@ -313,3 +313,8 @@ resource "aws_sqs_queue" "orders" {
 - Cross-resource references (`aws_s3_bucket.main.id`) create implicit dependencies — Terraform orders creation automatically
 - DynamoDB requires `attribute` blocks that match the `hash_key` and any `global_secondary_index` key names
 - SQS queues have sensible defaults for most attributes — you only need to set `name`
+
+## example and exercise repo url 
+[https://github.com/eyu-se/terraform-training-material-with-projects](https://github.com/eyu-se/terraform-training-material-with-projects)
+
+## Trainer - Eyuel M.
